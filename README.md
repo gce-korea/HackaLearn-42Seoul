@@ -133,12 +133,11 @@ HackaLearn에서는 참가자 여러분들 모두가 행사 기간 중 마음 �
 
 ## 🥑 주관 및 후원 ##
 
-이 행사는 이노베이션 아카데미에서 주관하고 마이크로소프트에서 후원합니다.
+이 행사는 [이노베이션 아카데미](https://innovationacademy.kr/)에서 주관하고 [마이크로소프트](https://www.microsoft.com/ko-kr?WT.mc_id=dotnet-47615-juyoo&ocid=AID3035086)에서 후원합니다.
 
-<div style="text-align: left;">
-    <a href="https://innovationacademy.kr/" target="_blank" title="Innovation Academy 홈페이지"><img src="assets/logo-innoaca.jpg" alt="Innovation Academy 로고" width="251" height="134"/></a>
-    <a href="https://www.microsoft.com/ko-kr?WT.mc_id=dotnet-47615-juyoo&ocid=AID3035086" target="_blank" title="Microsoft 홈페이지"><img src="assets/logo-microsoft.png" alt="Microsoft 로고" width="251" height="113"/></a>
-</div>
+| 주관 | 후원 |
+| :--: | :--: |
+| <a href="https://innovationacademy.kr/" target="_blank" title="Innovation Academy 홈페이지"><img src="assets/logo-innoaca.jpg" alt="Innovation Academy 로고" width="251" height="134"/></a> | <a href="https://www.microsoft.com/ko-kr?WT.mc_id=dotnet-47615-juyoo&ocid=AID3035086" target="_blank" title="Microsoft 홈페이지"><img src="assets/logo-microsoft.png" alt="Microsoft 로고" width="251" height="113"/></a> |
 
 
 [bicep]: https://aka.ms/42s/bicep/intro
