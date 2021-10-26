@@ -74,12 +74,21 @@ TBA
 
 HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함께 애저 Bicep, 애저 정적 웹 앱, 깃헙 액션을 만들어 보고 여러분의 애플리케이션 개발에 적용시켜 보세요!
 
+
+### 사전 워크샵 ###
+
 | 제목 | 일시 | 스트리밍 | 슬라이드 | 샘플코드 |
 | :--: | :--: | :--: | :--: | :--: |
 | 애저 Bicep으로 애저 인프라 구성하기 #1 | 2021년 11월 2일 (화) 8pm | 라이브 | 슬라이드 | 소스 코드 |
 | 깃헙 액션 만들기 #1 | 2021년 11월 3일 (수) 8pm | 라이브 | 슬라이드 | 소스 코드 |
 | 애저 정적 웹 앱 만들기 #1 | 2021년 11월 4일 (목) 8pm | 라이브 | 슬라이드 | 소스 코드 |
 | 정적 웹 앱으로 블로그 사이트 만들기 #1 | 2021년 11월 5일 (금) 8pm | 라이브 | 슬라이드 | 소스 코드 |
+
+
+### 이벤트 워크샵 ###
+
+| 제목 | 일시 | 스트리밍 | 슬라이드 | 샘플코드 |
+| :--: | :--: | :--: | :--: | :--: |
 | 애저 Bicep으로 애저 인프라 구성하기 #2 | 2021년 11월 9일 (화) 8pm | 라이브 | 슬라이드 | 소스 코드 |
 | 깃헙 액션 만들기 #2 | 2021년 11월 10일 (수) 8pm | 라이브 | 슬라이드 | 소스 코드 |
 | 애저 정적 웹 앱 만들기 #2 | 2021년 11월 11일 (목) 8pm | 라이브 | 슬라이드 | 소스 코드 |
@@ -94,7 +103,7 @@ HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함�
 
 ## 🧑🏻‍🏫 기술 멘토 ##
 
-HackaLearn 기간중 챌린지를 완수하기 위한 기술적인 문제들에 대해 궁금한 점이 있으신가요? 여기 MLSA, GCE, CA 및 다양한 현장 전문가 분들께서 여러분들이 HackaLearn 기간중 겪는 여러가지 기술적인 문제 해결에 멘토링을 해 주실 예정입니다.
+HackaLearn 기간중 챌린지를 완수하기 위한 기술적인 문제들에 대해 궁금한 점이 있으신가요? 여기 MLSA와 GCE를 비롯한 캠퍼스 기술 전문가와 클라우드 아드보캇 및 다양한 현장 전문가 분들께서 여러분들이 HackaLearn 기간중 겪는 여러가지 기술적인 문제 해결에 멘토링을 해 주실 예정입니다.
 <br/>
 
 | <img src="./mentors/justinyoo.png" width="150" alt="유저스틴 멘토"/> | <img src="./mentors/suekim.jpg" width="150" alt="김수정 멘토"/> | <img src="./mentors/aimeepark.jpg" width="150" alt="박정은 멘토"/> | <img src="./mentors/jaylim.jpg" width="150" alt="임진호 멘토"/> | <img src="./mentors/minhoryang.jpg" width="150" alt="양민호 멘토"/> |
@@ -127,6 +136,7 @@ HackaLearn에서는 참가자 여러분들 모두가 행사 기간 중 마음 �
 이 행사는 이노베이션 아카데미에서 주관하고 마이크로소프트에서 후원합니다.
 
 <div style="text-align: left;">
+    <a href="https://innovationacademy.kr/" target="_blank" title="Innovation Academy 홈페이지"><img src="assets/logo-innoaca.jpg" alt="Innovation Academy 로고" width="251" height="134"/></a>
     <a href="https://www.microsoft.com/ko-kr?WT.mc_id=dotnet-47615-juyoo&ocid=AID3035086" target="_blank" title="Microsoft 홈페이지"><img src="assets/logo-microsoft.png" alt="Microsoft 로고" width="251" height="113"/></a>
 </div>
 
@@ -140,7 +150,7 @@ HackaLearn에서는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [qna]: https://aka.ms/42s/qna
 [hof]: HALL_OF_FAME.md
 [privacy]: https://aka.ms/42s/privacy
-[coc]: https:/aka.ms/42s/coc
+[coc]: https://aka.ms/42s/coc
 [microsoft]: assets/logo-microsoft.png
 [tools]: ./tools
 [git yt]: https://www.youtube.com/playlist?list=PLDZRZwFT9WktMraaU2KPeU8nPx5O1CXv_

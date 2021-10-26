@@ -1,4 +1,4 @@
-# HackaLearn Korea 참여를 위해 필요한 개발 도구들 #
+# HackaLearn x 42 Seoul 참여를 위해 필요한 개발 도구들 #
 
 아래 열거한 개발 도구들은 HackaLearn 챌린지를 완수하기 위해 필요한 최소한의 것들입니다. 모두 무료로 사용할 수 있으니 시작 전에 미리 설치해 두시면 좋습니다.
 
@@ -43,5 +43,5 @@
 
 ## 윈도우 ##
 
-* [Visual Studio 2022 Community Edition](https://visualstudio.microsoft.com/vs/?WT.mc_id=dotnet-47615-juyoo&ocid=AID3035086)
+* [Visual Studio Community Edition](https://visualstudio.microsoft.com/vs/?WT.mc_id=dotnet-47615-juyoo&ocid=AID3035086)
 * [nvm (Node Version Manager) for Windows](https://github.com/coreybutler/nvm-windows)
