@@ -1,0 +1,23 @@
+name: On Challenge Labelled
+
+on:
+  # pull_request:
+  #   types:
+  #   - labeled
+  #   - unlabeled
+  pull_request_target:
+    types:
+    - labeled
+    - unlabeled
+
+jobs:
+  labelling:
+    name: 'Update a label'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Respond to label
+      uses: dessant/label-actions@v2
+      with:
+        process-only: prs

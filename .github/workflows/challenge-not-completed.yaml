@@ -1,0 +1,60 @@
+name: On Challenge Not Completed
+
+on:
+  workflow_dispatch:
+    inputs:
+      prId:
+        description: PR ID
+        required: true
+        default: ''
+      labelsToAdd:
+        description: The comma delimited labels to add
+        required: true
+        default: record-updated
+      labelsToRemove:
+        description: The comma delimited labels to remove
+        required: true
+        default: review-completed
+      isMergeable:
+        description: The value indicating whether the challenge is mergeable or not.
+        required: true
+        default: 'false'
+
+jobs:
+  update_labels:
+    name: 'Update labels'
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Update labels on PR
+      shell: pwsh
+      run: |
+        $headers = @{ "Authorization" = "token ${{ secrets.GITHUB_TOKEN }}"; "User-Agent" = "HackaLearn Bot"; "Accept" = "application/vnd.github.v3+json" }
+
+        $owner = "devrel-kr"
+        $repository = "HackaLearn"
+        $issueId = "${{ github.event.inputs.prId }}"
+
+        $labelsToAdd = "${{ github.event.inputs.labelsToAdd }}" -split ","
+        $body = @{ "labels" = $labelsToAdd }
+
+        $url = "https://api.github.com/repos/$owner/$repository/issues/$issueId/labels"
+        Invoke-RestMethod -Method Post -Uri $url -Headers $headers -Body $($body | ConvertTo-Json)
+
+        $labelsToRemove = "${{ github.event.inputs.labelsToRemove }}" -split ","
+        $labelsToRemove | ForEach-Object {
+          $label = $_;
+          $url = "https://api.github.com/repos/$owner/$repository/issues/$issueId/labels/$label";
+          Invoke-RestMethod -Method Delete -Uri $url -Headers $headers
+        }
+
+    # - name: Update labels on PR
+    #   uses: justinyoo/github-issue-label-action@v1
+    #   with:
+    #     authToken: ${{ secrets.GITHUB_TOKEN }}
+    #     owner: 'devrel-kr'
+    #     repository:  HackaLearn
+    #     issueId: '${{ github.event.inputs.prId }}'
+    #     labelsToAdd: '${{ github.event.inputs.labelsToAdd }}'
+    #     labelsToRemove: '${{ github.event.inputs.labelsToRemove }}'
