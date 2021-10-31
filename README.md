@@ -21,7 +21,7 @@ TBA
 
 ## ⏰ 일정 ##
 
-* 참가 신청기간: 2021년 11월 1일 0시 - 2021년 11월 19일 24시
+* 참가 신청기간: 2021년 11월 7일 0시 - 2021년 11월 19일 24시
 * 결과제출 마감기한: 2021년 11월 20일 24시
 * 심사 기간: 2021년 11월 22일 - 24일
 * 전시회: 2021년 12월 3일
@@ -38,7 +38,7 @@ TBA
 1. HackaLearn 이벤트에 참가 신청합니다.
 2. 아래 제시한 챌린지 미션을 모두 완료합니다.
 3. 챌린지 미션을 완료할 때 마다 PR을 생성하여 운영진에게 제출합니다.
-4. 챌린지 도중 궁금한 사항이 있을 땐 언제든 [질문/답변][qna] 방을 이용해 주세요.
+4. 챌린지 도중 궁금한 사항이 있을 땐 언제든 슬랙의 [`#hackalearn`](https://42seoulcuckoo.slack.com/archives/C02KXCMFF40) 채널을 이용해 주세요.
 
 
 ## ✅ 챌린지 미션 ##
@@ -99,6 +99,7 @@ HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함�
 
 * HackaLearn 기간 중 다양한 개발 도구 및 무료 계정을 사용해야 하는데요, 아래 링크를 통해 참가자의 운영체제에 맞는 개발 도구를 선택해서 사용할 수 있습니다. 👉 [개발 도구 사전 준비사항 보러가기][tools]
 * Git 혹은 GitHub 자체에 익숙해지고 싶으신가요? 여기 잘 정리된 비디오가 있습니다. 👉 [오픈소스 소통을 위한 Git 공부하기][git yt]
+* Bicep 관련해서 좀 더 익숙해지고 싶으신가요? 여기 잘 정리된 비디오가 있습니다. 👉 [Bicep으로 애저 리소스 프로비저닝하기][bicep yt]
 
 
 ## 🧑🏻‍🏫 기술 멘토 ##
@@ -153,6 +154,7 @@ HackaLearn에서는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [microsoft]: assets/logo-microsoft.png
 [tools]: ./tools
 [git yt]: https://www.youtube.com/playlist?list=PLDZRZwFT9WktMraaU2KPeU8nPx5O1CXv_
+[bicep yt]: https://www.youtube.com/playlist?list=PLDZRZwFT9WksymTZTCeCzu0ZUNyjE7O8Z
 
 [live bicep 1]: https://youtu.be/Hxkv6AjAisY
 [live gha 1]: https://youtu.be/Hxkv6AjAisY
