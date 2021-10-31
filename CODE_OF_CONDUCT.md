@@ -47,4 +47,4 @@ HackaLearn x 42 Seoul(이하 HackaLearn)은 개방적이고 서로를 존중하�
 - [Contributor Convenant 2.0](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
 - [Global Azure 2021 Korea Code of Conduct](https://github.com/krazure/gab2020kr/blob/master/CODE-OF-CONDUCT.md)
 - [Code-for-Korea Code of Conduct](https://github.com/Code-for-Korea/community.identity/blob/master/code_of_conduct.md)
-- [Virtual Events Guideline](https://github.com/devrel-kr/virtual-events/tree/translated/l10n/ko-kr)
+- [Virtual Events Guideline](https://github.com/innovationacademy-kr/virtual-events/tree/translated/l10n/ko-kr)

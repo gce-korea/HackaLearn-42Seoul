@@ -6,7 +6,7 @@ on:
       content:
         description: The content of the file to be updated
         required: true
-        default: "# HackaLearn 명예의 전당 Hall of Fame #\r\n\r\n여섯 가지의 챌린지 미션을 모두 완료한 팀들입니다. 가나다순으로 정렬되어 있습니다."
+        default: "# HackaLearn 명예의 전당 Hall of Fame #\r\n\r\n일곱 가지의 챌린지 미션을 모두 완료한 팀들입니다. 가나다순으로 정렬되어 있습니다."
 
 
 jobs:

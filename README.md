@@ -8,7 +8,7 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 <div>
   <br>
-  <!-- <a href="http://aka.ms/hackalearn/register" title="등록 신청 링크"><img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/></a> -->
+  <!-- <a href="http://aka.ms/42s/register" title="등록 신청 링크"><img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/></a> -->
   <img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/>
   <br>
 </div>

@@ -11,5 +11,5 @@ charset = utf-8
 trim_trailing_whitespace = false
 insert_final_newline = false
 
-[*.{json,yaml,yml}]
+[*.{json,yaml,yml,html,js}]
 indent_size = 2
