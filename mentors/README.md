@@ -1,4 +1,4 @@
-# HackaLearn Korea 멘토 ##
+# HackaLearn x 42 Seoul 멘토 ##
 
 <a name="justinyoo"></a>
 ## 유저스틴 멘토 &ndash; 일반 ##

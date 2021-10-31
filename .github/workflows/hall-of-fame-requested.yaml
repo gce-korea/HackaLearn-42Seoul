@@ -38,7 +38,7 @@ jobs:
       shell: bash
       run: |
         git config --local user.email "hackalearn.korea@outlook.com"
-        git config --local user.name "HackaLearn Korea"
+        git config --local user.name "HackaLearn x 42 Seoul"
         git add "./HALL_OF_FAME.md" --force
         git commit -m "HALL_OF_FAME.md updated"
         git pull origin main

@@ -41,7 +41,7 @@ jobs:
       shell: bash
       run: |
         git config --local user.email "hackalearn.korea@outlook.com"
-        git config --local user.name "HackaLearn Korea"
+        git config --local user.name "HackaLearn x 42 Seoul"
         git add "./${{ env.FILE_NAME }}" --force
         git commit -m "${{ env.FILE_NAME }} updated"
         git pull origin main
