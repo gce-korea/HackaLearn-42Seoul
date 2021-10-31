@@ -8,8 +8,7 @@ HackaLearn은 Hackathon + Learn의 합성어로 주어진 기간 안에 관련 �
 
 <div>
   <br>
-  <!-- <a href="http://aka.ms/42s/register" title="등록 신청 링크"><img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/></a> -->
-  <img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/>
+  <a href="http://aka.ms/42s/register" title="등록 신청 링크"><img src="./assets/registration-ko@2.png" width="227" height="56" alt="등록 신청 버튼"/></a>
   <br>
 </div>
 
@@ -35,7 +34,7 @@ TBA
 
 ## 🏃🏻‍♂️ 참여 방법 ##
 
-1. HackaLearn 이벤트에 참가 신청합니다.
+1. HackaLearn 이벤트에 참가 신청합니다. 👉 [참가 신청](https://aka.ms/42s/register)
 2. 아래 제시한 챌린지 미션을 모두 완료합니다.
 3. 챌린지 미션을 완료할 때 마다 PR을 생성하여 운영진에게 제출합니다.
 4. 챌린지 도중 궁금한 사항이 있을 땐 언제든 슬랙의 [`#hackalearn`](https://42seoulcuckoo.slack.com/archives/C02KXCMFF40) 채널을 이용해 주세요.
@@ -79,7 +78,7 @@ HackaLearn 기간 중 다양한 핸즈온 랩 세션을 준비했습니다. 함�
 
 | 제목 | 일시 | 스트리밍 | 슬라이드 | 샘플코드 |
 | :--: | :--: | :--: | :--: | :--: |
-| 애저 Bicep으로 애저 인프라 구성하기 #1 | 2021년 11월 2일 (화) 8pm | 라이브 | 슬라이드 | 소스 코드 |
+| 애저 Bicep으로 애저 인프라 구성하기 #1 | 2021년 11월 2일 (화) 8pm | [라이브][live bicep 1] | 슬라이드 | 소스 코드 |
 | 깃헙 액션 만들기 #1 | 2021년 11월 3일 (수) 8pm | 라이브 | 슬라이드 | 소스 코드 |
 | 애저 정적 웹 앱 만들기 #1 | 2021년 11월 4일 (목) 8pm | 라이브 | 슬라이드 | 소스 코드 |
 | 정적 웹 앱으로 블로그 사이트 만들기 #1 | 2021년 11월 5일 (금) 8pm | 라이브 | 슬라이드 | 소스 코드 |
@@ -156,7 +155,7 @@ HackaLearn에서는 참가자 여러분들 모두가 행사 기간 중 마음 �
 [git yt]: https://www.youtube.com/playlist?list=PLDZRZwFT9WktMraaU2KPeU8nPx5O1CXv_
 [bicep yt]: https://www.youtube.com/playlist?list=PLDZRZwFT9WksymTZTCeCzu0ZUNyjE7O8Z
 
-[live bicep 1]: https://youtu.be/Hxkv6AjAisY
+[live bicep 1]: https://youtu.be/Q2X-eVvHKpc
 [live gha 1]: https://youtu.be/Hxkv6AjAisY
 [live aswa 1]: https://youtu.be/e_elLW6uNSc
 [live all 1]: https://youtu.be/x3j3mDblqMY
